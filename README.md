@@ -1,14 +1,11 @@
 # work-day-scheduler
 
 ## Updates
-- added current day
-- created schedule body
-- added times to timeslots
-- added text box to task section
-- 3 seperate coloums for time, task, and save.
+- added save buttons
+- CSS format applied
 
 ## To do
-- add save button
+- add save icon to save buttons
 - add colour coding affect (past, present, future)
 - local storage
 - persistence
