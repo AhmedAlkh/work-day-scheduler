@@ -1,7 +1,7 @@
 # work-day-scheduler
 
 ## Updates
-- local storage
+- pushing to publish
 
 ## To do
-- persistence
+- submit
